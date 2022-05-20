@@ -1,0 +1,23 @@
+C:\Users\Viet\source\repos\m.Books\app m.Books\bin\Debug\app m.Books.exe.config
+C:\Users\Viet\source\repos\m.Books\app m.Books\bin\Debug\app m.Books.exe
+C:\Users\Viet\source\repos\m.Books\app m.Books\bin\Debug\app m.Books.pdb
+C:\Users\Viet\source\repos\m.Books\app m.Books\bin\Debug\Siticone.UI.dll
+C:\Users\Viet\source\repos\m.Books\app m.Books\obj\Debug\app m.Books.csprojAssemblyReference.cache
+C:\Users\Viet\source\repos\m.Books\app m.Books\obj\Debug\app_m.Books.Form1.resources
+C:\Users\Viet\source\repos\m.Books\app m.Books\obj\Debug\app_m.Books.Properties.Resources.resources
+C:\Users\Viet\source\repos\m.Books\app m.Books\obj\Debug\app m.Books.csproj.GenerateResource.cache
+C:\Users\Viet\source\repos\m.Books\app m.Books\obj\Debug\app m.Books.csproj.CoreCompileInputs.cache
+C:\Users\Viet\source\repos\m.Books\app m.Books\obj\Debug\app m.Books.csproj.CopyComplete
+C:\Users\Viet\source\repos\m.Books\app m.Books\obj\Debug\app m.Books.exe
+C:\Users\Viet\source\repos\m.Books\app m.Books\obj\Debug\app m.Books.pdb
+C:\Users\Viet\source\repos\m.Books\app m.Books\obj\Debug\app_m.Books.Home.resources
+C:\Users\Viet\source\repos\m.Books\app m.Books\obj\Debug\app_m.Books.Kho.resources
+C:\Users\Viet\source\repos\m.Books\app m.Books\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Viet\source\repos\m.Books\app m.Books\obj\Debug\app_m.Books.Home2.resources
+C:\Users\Viet\source\repos\m.Books\app m.Books\obj\Debug\app_m.Books.tHÊM.resources
+C:\Users\Viet\source\repos\m.Books\app m.Books\obj\Debug\app_m.Books.taohoadon.resources
+C:\Users\Viet\source\repos\m.Books\app m.Books\obj\Debug\app_m.Books.Login.resources
+C:\Users\Viet\source\repos\m.Books\app m.Books\obj\Debug\app_m.Books.themnv.resources
+C:\Users\Viet\source\repos\m.Books\app m.Books\obj\Debug\app_m.Books.Lỗi.resources
+C:\Users\Viet\source\repos\m.Books\app m.Books\obj\Debug\app_m.Books.THONGKEUserControl1.resources
+C:\Users\Viet\source\repos\m.Books\app m.Books\obj\Debug\app_m.Books.hd.resources

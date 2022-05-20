@@ -1,0 +1,15 @@
+C:\Users\Viet\source\repos\m.Books\m.Books\bin\Debug\netcoreapp3.1\m.Books.exe
+C:\Users\Viet\source\repos\m.Books\m.Books\bin\Debug\netcoreapp3.1\m.Books.deps.json
+C:\Users\Viet\source\repos\m.Books\m.Books\bin\Debug\netcoreapp3.1\m.Books.runtimeconfig.json
+C:\Users\Viet\source\repos\m.Books\m.Books\bin\Debug\netcoreapp3.1\m.Books.runtimeconfig.dev.json
+C:\Users\Viet\source\repos\m.Books\m.Books\bin\Debug\netcoreapp3.1\m.Books.dll
+C:\Users\Viet\source\repos\m.Books\m.Books\bin\Debug\netcoreapp3.1\m.Books.pdb
+C:\Users\Viet\source\repos\m.Books\m.Books\obj\Debug\netcoreapp3.1\m.Books.csprojAssemblyReference.cache
+C:\Users\Viet\source\repos\m.Books\m.Books\obj\Debug\netcoreapp3.1\m.Books.Form1.resources
+C:\Users\Viet\source\repos\m.Books\m.Books\obj\Debug\netcoreapp3.1\m.Books.csproj.GenerateResource.cache
+C:\Users\Viet\source\repos\m.Books\m.Books\obj\Debug\netcoreapp3.1\m.Books.AssemblyInfoInputs.cache
+C:\Users\Viet\source\repos\m.Books\m.Books\obj\Debug\netcoreapp3.1\m.Books.AssemblyInfo.cs
+C:\Users\Viet\source\repos\m.Books\m.Books\obj\Debug\netcoreapp3.1\m.Books.csproj.CoreCompileInputs.cache
+C:\Users\Viet\source\repos\m.Books\m.Books\obj\Debug\netcoreapp3.1\m.Books.dll
+C:\Users\Viet\source\repos\m.Books\m.Books\obj\Debug\netcoreapp3.1\m.Books.pdb
+C:\Users\Viet\source\repos\m.Books\m.Books\obj\Debug\netcoreapp3.1\m.Books.genruntimeconfig.cache
